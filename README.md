@@ -1,2 +1,4 @@
-# web-335
-Repository for BU Web Dev Course WEB335
+# WEB 335 Node.js
+## Contributors
+* Richard Krasso
+* Kaitlyn Kelly
