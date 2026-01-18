@@ -1,0 +1,17 @@
+{
+    "_id": "kaitlyn",
+    "firstName": "Kaitlyn",
+    "lastName": "Kelly",
+    "burgers": [
+        {
+            "_id": "0001",
+            "burgerName": "Cheeseburger",
+            "price": "7.99"
+        },
+        {
+            "_id": "0004",
+            "burgerName": "Mushroom Swiss",
+            "price": "8.99"
+        }
+    ]
+}
