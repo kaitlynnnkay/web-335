@@ -1,0 +1,26 @@
+{
+    "viewers": [
+        {
+            "_id": "kaitlyn",
+            "firstName": "Kaitlyn",
+            "lastName": "Kelly"
+        }
+    ],
+
+    "movies": [
+        {
+            "_id": "12345",
+            "movieName": "Don't Worry Darling",
+            "genre": "Thriller"
+        }
+    ],
+
+    "ratings": [
+        {
+            "_id": "kk0001",
+            "ratingScore": "2.0",
+            "viewerID": "kaitlyn",
+            "movieID": "12345"
+        }
+    ]
+}
